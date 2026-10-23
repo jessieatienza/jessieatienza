@@ -23,7 +23,7 @@ Everyone should be deeply curious about something, anything.
 Physical, paper books should never be replaced by screens!
  
 ##Check out what I'm building 👾**
-[Current Builds] (CURRENT.md)
+[Current Builds](CURRENT.md)
 www.demmannd.com
 
 ##Get in touch 📞
