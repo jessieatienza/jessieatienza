@@ -22,11 +22,13 @@ Everyone should be deeply curious about something, anything.
   
 Physical, paper books should never be replaced by screens!
  
-##Check out what I'm building 👾**
+## Check out what I'm building 👾
+
 [Current Builds](CURRENT.md)
+
 www.demmannd.com
 
-##Get in touch 📞
+## Get in touch 📞
 jessieatienza.com
 jessie.atienza@gmail.com
 linkedin.com/in/jessieatienza
